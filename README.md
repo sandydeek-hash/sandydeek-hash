@@ -15,15 +15,16 @@ I specialize in:
 
 ## 🔹 What I’m Currently Working On
 
-* Building agentic AI systems for customer feedback and automation
 * Exploring AI-driven commerce and conversational experiences
+* Exploring how AI can help product teams accelerate and optimize workflows across the product lifecycle.
 * Creating product case studies and reusable frameworks
 * Curatiing PM frameworks repo - PRDs, OKRs, STAR narratives, Agent design canvases
 
 ---
 
-## 🔹 Featured Work (Coming Soon 🚧)
+## 🔹 Featured Work 
 
+* AI-assisted roadmapping — turning backlog chaos into a prioritized, shareable quarterly plan.
 * AI Guided Commerce Experience
 * Agentic AI Feedback System
 * Email Intelligence Automation System
