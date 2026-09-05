@@ -33,7 +33,7 @@ I specialize in:
 
 ## 🔹 Skills
 
-Product Strategy | AI/ML | Product prototyping| Vibe coding | Salesforce | Experimentation | APIs | Growth | UX Thinking
+Product Strategy | AI/ML | Product prototyping | Vibe coding | Salesforce | Experimentation | APIs | Growth | UX Thinking
 
 ---
 
